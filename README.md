@@ -20,31 +20,19 @@ La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
 
 ## Objectifs de mission
 
-Création d'un front-end en Vue.JS permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
+Création d'un front-end en **Vue.JS** permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
 
 - Création d'un champ de recherche
 - Affichage des résultats par liste avec le nom
 - Création d'une fiche détaillant le résultat où sera présentée les informations
-
-### Requis
-
-- Choisir au minimum un point optionnel ci-dessous
-- Code source dans les règles de l'art
-- Rédiger une procédure d'installation du projet
-
-### Optionnel
-
-- Afficher des fiches differentes en fonction du type de donnée
-- Implémentation d'un router
-```
-  Le router doit permettre d'accèder à n'importe quelle fiche
-  Il peut permettre d'accèder directement au résultat d'une recherche
-```
 - Implémentation d'un système de filtre
 ```
   Mettre en place un système de filtre par type de donnée (personnage, vaisseau, ...)
 ```
-- Mise en place de CSS modules
+
+### Requis
+
+- Code source dans les règles de l'art, durée 4h maximum
 
 ## Bonus
 
@@ -56,9 +44,9 @@ Permettre d'afficher les résultats en Wookiee
 
 ## Conclusion
 
-Attention, l'utilisation de **swapi-node** est prohibée, car l'application est surveillée par l'empire.
-
 Afin que le service de renseignements de l'alliance puisse vérifier l'intégrité de votre code, il sera nécessaire de le rendre disponible sur un repo git accessible.
+
+Ce repo devra contenir un fichier `README.MD` contenant toutes les instructions nécessaires pour pouvoir tester le projet.
 
 Toute l'alliance Rebelle compte sur la réussite de cette mission.
 
