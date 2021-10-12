@@ -1,6 +1,10 @@
-# Star Wars Rebels Alliance
+# Star Wars 
 
 ### Bienvenue dans l'Alliance Rebelle jeune Padawan!
+
+<p align="center">
+  <img align="center" width="50%" height="50%" src="https://media4.giphy.com/media/aariWjKu5N73y/giphy.gif">
+</p>
 
 **Nous avons besoin de personnes motivées pour défaire l'Empire.**
 
@@ -13,10 +17,6 @@ Il s'agira, pour le bien de la rébellion, de créer une interface nous permetta
 L'un de nos espions a donné sa vie afin que nous puissions accéder à ces informations.
 
 La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
-
-<p align="center">
-  <img align="center" width="50%" height="50%" src="https://media1.giphy.com/media/9E7kUhnT9eDok/giphy.gif">
-</p>
 
 ## Objectifs de mission
 
