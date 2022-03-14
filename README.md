@@ -20,7 +20,7 @@ La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
 
 ## Objectifs de mission
 
-Création d'un front-end en **Vue.JS** permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
+Création d'une application en **Python3 ou Django ou Flask** permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
 
 - Création d'un champ de recherche
 - Affichage des résultats par liste avec le nom
