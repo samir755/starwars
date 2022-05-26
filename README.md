@@ -20,10 +20,10 @@ La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
 
 ## Objectifs de mission
 
-Création d'une application en **Python3 ou Django ou Flask** permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
+Création d'une application permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
 
-- Création d'un champ de recherche
 - Affichage des résultats par liste avec le nom
+- Création d'un champ de recherche
 - Création d'une fiche détaillant le résultat où sera présentée les informations
 - Implémentation d'un système de filtre
 ```
@@ -32,7 +32,7 @@ Création d'une application en **Python3 ou Django ou Flask** permettant de rech
 
 ### Requis
 
-- Code source dans les règles de l'art, durée 4h maximum
+- Code source dans les règles de l'art, durée 3h maximum
 
 ## Bonus
 
