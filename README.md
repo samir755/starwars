@@ -22,10 +22,10 @@ La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
 
 Création d'une application permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
 
-- Affichage des résultats par liste avec le nom
+- Affichage des résultats par catégories 
+- Création d'une fiche détaillant le résultat où sera présentée les informations utiles
 - Création d'un champ de recherche
-- Création d'une fiche détaillant le résultat où sera présentée les informations
-- Implémentation d'un système de filtre
+- Implémentation d'un système de filtre :
 ```
   Mettre en place un système de filtre par type de donnée (personnage, vaisseau, ...)
 ```
@@ -44,9 +44,9 @@ Permettre d'afficher les résultats en Wookiee
 
 ## Conclusion
 
-Afin que le service de renseignements de l'alliance puisse vérifier l'intégrité de votre code, il sera nécessaire de le rendre disponible sur un repo git accessible.
+Afin que le service de renseignements de l'alliance puisse vérifier l'intégrité de votre code, il sera nécessaire de le rendre disponible sur git.
 
-Ce repo devra contenir un fichier `README.MD` contenant toutes les instructions nécessaires pour pouvoir tester le projet.
+Le projet devra contenir un fichier `README.MD` contenant toutes les instructions nécessaires pour pouvoir executer le projet.
 
 Toute l'alliance Rebelle compte sur la réussite de cette mission.
 
