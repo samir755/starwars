@@ -13,14 +13,14 @@ Il nous faut donc un moyen de contrecarrer leurs plans.
 
 C'est pourquoi nous avons décidé de vous confier une mission de la plus haute importance!
 
-Il s'agira, pour le bien de la rébellion, de créer une interface nous permettant de rechercher dans la banque de données de l'Empire.
+Il s'agira, pour le bien de la rébellion, de créer une interface sous Symfony nous permettant de rechercher dans la banque de données de l'Empire.
 L'un de nos espions a donné sa vie afin que nous puissions accéder à ces informations.
 
 La base de données de l'Empire est accessible par [API ici](https://swapi.dev/)
 
 ## Objectifs de mission
 
-Création d'une application permettant de rechercher facilement sur les données provenant de [l'API Swapi](https://swapi.dev/documentation).
+Création d'une application Symfony permettant de rechercher les données provenant de [l'API Swapi](https://swapi.dev/documentation).
 
 - Affichage des résultats par catégories 
 - Création d'une fiche détaillant le résultat où sera présentée les informations utiles
@@ -32,7 +32,9 @@ Création d'une application permettant de rechercher facilement sur les données
 
 ### Requis
 
-- Code source dans les règles de l'art, durée 3h maximum
+- Créez le service `SwapiDataService` pour interagir avec l'API Swapi.
+- Utilisez Bootstrap pour l'affichage (https://getbootstrap.com/docs/5.3/examples/).
+- Code source dans les règles de l'art, durée 4h maximum
 
 ## Bonus
 
@@ -46,7 +48,7 @@ Permettre d'afficher les résultats en Wookiee
 
 Afin que le service de renseignements de l'alliance puisse vérifier l'intégrité de votre code, il sera nécessaire de le rendre disponible sur git.
 
-Le projet devra contenir un fichier `README.MD` contenant toutes les instructions nécessaires pour pouvoir executer le projet.
+Le projet doit contenir un fichier `README.MD` contenant toutes les instructions nécessaires pour pouvoir executer le projet.
 
 Toute l'alliance Rebelle compte sur la réussite de cette mission.
 
